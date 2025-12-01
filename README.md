@@ -3,10 +3,10 @@ ValiokCoderConsole Beta 0.1 for Lazarus IDE
 
 PBitmapChanger Beta 0.2 for Lazarus IDE
 
-=============================
+=================
 Репа на Хабе
 https://github.com/YouReTs
-=============================
+=================
 
 
 ___________Изменения/доработки_________
