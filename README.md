@@ -1,12 +1,17 @@
 # ValiokCoderConsole Fork YouReTs Translit To Delphi/Lazarus Beta Test
 ValiokCoderConsole Beta 0.1 for Lazarus IDE
 
+PBitmapChanger Beta 0.2 for Lazarus IDE
 
 =============================
 Репа на Хабе
 https://github.com/YouReTs
 =============================
 
+
+___________Изменения/доработки_________
+Beta 0.2 - удалил все левые зависимости типа BGRABitmap, BGRABitmapTypes от сторонних библиотек, проект использует только стандартные компоненты.
+____________________
 
 Основные компоненты Lazarus, которые нужно добавить на форму:
 TMainForm - главная форма
