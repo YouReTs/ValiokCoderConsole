@@ -1,4 +1,4 @@
-# ValiokCoderConsole
+# ValiokCoderConsole Fork YouReTs Translit To Delphi/Lazarus Beta Test
 ValiokCoderConsole Beta 0.1 for Lazarus IDE
 
 
