@@ -245,7 +245,7 @@ begin
     ' - DEXP RetroGAME 6' + sLineBreak +
     ' - SG800' + sLineBreak +
     ' - Прочие... (с аналогичной прошивкой)' + sLineBreak + sLineBreak +
-    'Автор приложения Flapiotun';
+    'Автор приложения Flapiotun and ValiokCoder and YouReTs';
     
   ShowMessage(InfoText);
 end;
